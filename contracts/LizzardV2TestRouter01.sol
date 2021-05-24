@@ -1,8 +1,7 @@
 pragma solidity =0.6.6;
 
-import '@uniswap/v2-core/contracts/interfaces/ILizzardV2TestFactory.sol';
+import 'lizzardtest-v2-core/contracts/interfaces/ILizzardV2TestFactory.sol';
 import '@uniswap/lib/contracts/libraries/TransferHelper.sol';
-
 import './libraries/LizzardV2TestLibrary.sol';
 import './interfaces/ILizzardV2TestRouter01.sol';
 import './interfaces/IERC20.sol';

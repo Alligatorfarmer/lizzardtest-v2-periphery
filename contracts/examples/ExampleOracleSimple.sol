@@ -1,9 +1,8 @@
 pragma solidity =0.6.6;
 
-import '@uniswap/v2-core/contracts/interfaces/ILizzardV2TestFactory.sol';
-import '@uniswap/v2-core/contracts/interfaces/ILizzardV2TestPair.sol';
+import 'lizzardtest-v2-core/contracts/interfaces/ILizzardV2TestFactory.sol';
+import 'lizzardtest-v2-core/contracts/interfaces/ILizzardV2TestPair.sol';
 import '@uniswap/lib/contracts/libraries/FixedPoint.sol';
-
 import '../libraries/LizzardV2TestOracleLibrary.sol';
 import '../libraries/LizzardV2TestLibrary.sol';
 

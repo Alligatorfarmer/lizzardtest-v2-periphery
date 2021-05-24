@@ -1,6 +1,6 @@
 pragma solidity =0.6.6;
 
-import '@uniswap/v2-core/contracts/interfaces/IULizzardV2TestCallee.sol';
+import 'lizzardtest-v2-core/contracts/interfaces/ILizzardV2TestCallee.sol';
 
 import '../libraries/LizzardV2TestLibrary.sol';
 import '../interfaces/V1/IUniswapV1Factory.sol';

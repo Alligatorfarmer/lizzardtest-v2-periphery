@@ -1,7 +1,7 @@
 pragma solidity >=0.5.0;
 
-import '@uniswap/v2-core/contracts/interfaces/ILizzardV2TestPair.sol';
-import '@uniswap/v2-core/contracts/interfaces/ILizzardV2TestFactory.sol';
+import 'lizzardtest-v2-core/contracts/interfaces/ILizzardV2TestPair.sol';
+import 'lizzardtest-v2-core/contracts/interfaces/ILizzardV2TestFactory.sol';
 import '@uniswap/lib/contracts/libraries/Babylonian.sol';
 import '@uniswap/lib/contracts/libraries/FullMath.sol';
 

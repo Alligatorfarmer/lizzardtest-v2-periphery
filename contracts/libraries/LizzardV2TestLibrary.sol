@@ -1,7 +1,8 @@
 pragma solidity >=0.5.0;
 
 
-import '../interfaces/ILizzardV2TestPair.sol';
+import 'lizzardtest-v2-core/contracts/interfaces/ILizzardV2TestPair.sol';
+
 import "./SafeMath.sol";
 
 library LizzardV2TestLibrary {
